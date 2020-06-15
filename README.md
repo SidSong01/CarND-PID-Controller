@@ -3,6 +3,11 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+Note: This project makes use of  [Udacity Driving Simulator](https://github.com/udacity/self-driving-car-sim) and Udacity Workspace.
+Specific imformation please refer to the program website.
+
+---
+
 ## Dependencies
 
 * cmake >= 3.5
